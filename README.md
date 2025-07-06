@@ -18,7 +18,7 @@
 ```
 
 ### Connect with me:
-[<img align="left" alt="Timo | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][email]
+[:e-mail:][email]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png.original.png" />][linkedin]
 
 
